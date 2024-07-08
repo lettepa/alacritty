@@ -1,0 +1,71 @@
+[colors.normal]
+black = "#08192D"   # Black/Kachi, bg
+red = "#ED5A65"     # Nakabeni, red
+green = "#47D2BC"   # brAomidori, green
+yellow = "#F9BF45"  # Tamako, yellow
+blue = "#37B4FD"    # brRuri, blue
+magenta = "#FD67B8" # brTsutsuji, magenta
+cyan = "#71DCEA"    # brChigusa, cyan
+white = "#CCE0EC"   # White, fg
+
+[colors.bright]
+black = "#24384F"   # brBlack, bg0
+red = "#ED5A65"     # Nakabeni, red
+green = "#47D2BC"   # brAoimidori, green
+yellow = "#F9BF45"  # Tamako, yellow
+blue = "#37B4FD"    # brRuri, blue
+magenta = "#FD67B8" # brTsutsuji, magenta
+cyan = "#71DCEA"    # brChigusa, cyan
+white = "#CCE0EC"   # White, fg
+
+[colors.dim]
+black = "#08192D"   # Black, bg
+red = "#CB1B45"     # Kurenai, red0
+green = "#00AA90"   # Aomidori, green0
+yellow = "#CA7A2C"  # Kohaku, yellow0
+blue = "#005CAF"    # Ruri, blue0
+magenta = "#E03C8A" # Tsutsuji, magenta0
+cyan = "#3A8FB7"    # Chigusa, cyan0
+white = "#83A2B7"   # brGrey, fg0
+
+[colors.cursor]
+cursor = "CellForeground"
+text = "CellBackground"
+
+[colors.footer_bar]
+background = "#08192D" # bg
+foreground = "#CCE0EC" # fg
+
+[colors.hints.end]
+background = "#CB1B45" # red0
+foreground = "#CCE0EC" # fg
+
+[colors.hints.start]
+background = "#CB1B45" # red0
+foreground = "#CCE0EC" # fg
+
+[colors.line_indicator]
+background = "None"
+foreground = "None"
+
+[colors.primary]
+background = "#08192D"        # bg
+foreground = "#CCE0EC"        # fg
+dim_foreground = "#83A2B7"    # fg0
+bright_foreground = "#CCE0EC" # fg
+
+[colors.search.focused_match]
+background = "CellForeground"
+foreground = "#08192D"        # bg
+
+[colors.search.matches]
+background = "#3A8FB7" # cyan0
+foreground = "#CCE0EC" # fg
+
+[colors.selection]
+background = "#24384F"  # bg0
+text = "CellForeground"
+
+[colors.vi_mode_cursor]
+background = "CellForeground"
+text = "#08192D"              # bg
