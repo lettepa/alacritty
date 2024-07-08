@@ -1,0 +1,2 @@
+# alacritty
+Lettepa for alacritty
