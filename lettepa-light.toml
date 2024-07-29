@@ -1,12 +1,12 @@
 [colors.normal]
 black = "#DFF3FF"   # brWhite, bg
-red = "#CB1B45"     # Kurenai, red
-green = "#00AA90"   # Aomidori, green
-yellow = "#CA7A2C"  # Kohaku, yellow
-blue = "#005CAF"    # Ruri, blue
-magenta = "#E03C8A" # Tsutsuji, magenta
-cyan = "#3A8FB7"    # Chigusa, cyan
-white = "#24384F"   # brBlack, fg
+red = "#ED5A65"     # Nakabeni, red0
+green = "#47D2BC"   # brAoimidori, green0
+yellow = "#F9BF45"  # Tamako, yellow0
+blue = "#37B4FD"    # brRuri, blue0
+magenta = "#FD67B8" # brTsutsuji, magenta0
+cyan = "#71DCEA"    # brChigusa, cyan0
+white = "#5C7186"   # dimGrey, fg0
 
 [colors.bright]
 black = "#CCE0EC"   # White, bg0
