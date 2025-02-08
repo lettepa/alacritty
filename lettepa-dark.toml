@@ -1,71 +1,71 @@
 [colors.normal]
-black = "#08192D"   # Black/Kachi, bg
-red = "#CB1B45"     # Kurenai, red0
-green = "#00AA90"   # Aomidori, green0
-yellow = "#CA7A2C"  # Kohaku, yellow0
-blue = "#005CAF"    # Ruri, blue0
-magenta = "#E03C8A" # Tsutsuji, magenta0
-cyan = "#3A8FB7"    # Chigusa, cyan0
-white = "#83A2B7"   # brGrey, fg0
+black = "#08192d"   # bg,       kachi
+red = "#cb1b45"     # red0,     kurenai
+green = "#268785"   # green0,   seiheki
+yellow = "#96632e"  # yellow0,  chojicha
+blue = "#005caf"    # blue0,    ruri
+magenta = "#e03c8a" # magenta0, tsutsuji
+cyan = "#3a8fb7"    # cyan0,    chigusa
+white = "#91989f"   # fg0,      ginnezumi
 
 [colors.bright]
-black = "#24384F"   # brBlack, bg0
-red = "#ED5A65"     # Nakabeni, red
-green = "#47D2BC"   # brAoimidori, green
-yellow = "#F9BF45"  # Tamako, yellow
-blue = "#37B4FD"    # brRuri, blue
-magenta = "#FD67B8" # brTsutsuji, magenta
-cyan = "#71DCEA"    # brChigusa, cyan
-white = "#CCE0EC"   # White, fg
+black = "#0f2540"   # bg0,     kon
+red = "#db4d6d"     # red,     nakabeni
+green = "#66bab7"   # green,   mizuasagi
+yellow = "#f7c242"  # yellow,  hanaba
+blue = "#2ea9df"    # blue,    tsuyukusa
+magenta = "#f596aa" # magenta, momo
+cyan = "#7db9de"    # cyan,    wasurenagusa
+white = "#bdc0ba"   # fg,      shironezumi
 
 [colors.dim]
-black = "#08192D"   # Black, bg
-red = "#CB1B45"     # Kurenai, red0
-green = "#00AA90"   # Aomidori, green0
-yellow = "#CA7A2C"  # Kohaku, yellow0
-blue = "#005CAF"    # Ruri, blue0
-magenta = "#E03C8A" # Tsutsuji, magenta0
-cyan = "#3A8FB7"    # Chigusa, cyan0
-white = "#83A2B7"   # brGrey, fg0
+black = "#08192d"   # bg,       kachi
+red = "#cb1b45"     # red0,     kurenai
+green = "#268785"   # green0,   seiheki
+yellow = "#96632e"  # yellow0,  chojicha
+blue = "#005caf"    # blue0,    ruri
+magenta = "#e03c8a" # magenta0, tsutsuji
+cyan = "#3a8fb7"    # cyan0,    chigusa
+white = "#91989f"   # fg0,      ginnezumi
 
 [colors.cursor]
 cursor = "CellForeground"
 text = "CellBackground"
 
 [colors.footer_bar]
-background = "#08192D" # bg
-foreground = "#CCE0EC" # fg
+background = "#08192d" # bg
+foreground = "#bdc0ba" # fg
 
 [colors.hints.end]
-background = "#CB1B45" # red0
-foreground = "#CCE0EC" # fg
+background = "#cb1b45" # red0
+foreground = "#bdc0ba" # fg
 
 [colors.hints.start]
-background = "#CB1B45" # red0
-foreground = "#CCE0EC" # fg
+background = "#cb1b45" # red0
+foreground = "#bdc0ba" # fg
 
 [colors.line_indicator]
 background = "None"
 foreground = "None"
 
 [colors.primary]
-background = "#08192D"        # bg
-foreground = "#CCE0EC"        # fg
-dim_foreground = "#83A2B7"    # fg0
-bright_foreground = "#CCE0EC" # fg
+background = "#08192d"        # bg
+foreground = "#bdc0ba"        # fg
+dim_foreground = "#91989f"    # fg0
+bright_foreground = "#bdc0ba" # fg
 
 [colors.search.focused_match]
 background = "CellForeground"
-foreground = "#08192D"        # bg
+foreground = "#08192d"        # bg
 
 [colors.search.matches]
-background = "#3A8FB7" # cyan0
-foreground = "#CCE0EC" # fg
+background = "#3a8fb7" # cyan0
+foreground = "#bdc0ba" # fg
 
 [colors.selection]
-background = "#24384F"  # bg0
+background = "#0f2540"  # bg0
 text = "CellForeground"
 
 [colors.vi_mode_cursor]
 background = "CellForeground"
-text = "#08192D"              # bg
+text = "#08192d"              # bg
