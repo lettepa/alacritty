@@ -1,31 +1,31 @@
 [colors.normal]
 black = "#fcfaf2"   # bg,       shironeri
-red = "#db4d6d"     # red0,     nakabeni
-green = "#66bab7"   # green0,   mizuasagi
-yellow = "#f7c242"  # yellow0,  hanaba
-blue = "#2ea9df"    # blue0,    tsuyukusa
-magenta = "#f596aa" # magenta0, momo
-cyan = "#7db9de"    # cyan0,    wasurenagusa
-white = "#434343"   # fg0,      keshizumi
-
-[colors.bright]
-black = "#bdc0ba"   # bg0,     shironezumi
 red = "#cb1b45"     # red,     kurenai
 green = "#268785"   # green,   seiheki
 yellow = "#96632e"  # yellow,  chojicha
 blue = "#005caf"    # blue,    ruri
 magenta = "#e03c8a" # magenta, tsutsuji
 cyan = "#3a8fb7"    # cyan,    chigusa
-white = "#0f2540"   # fg,      kon
+white = "#434343"   # fg0,      keshizumi
 
-[colors.dim]
-black = "#fcfaf2"   # bg,       shironeri
+[colors.bright]
+black = "#bdc0ba"   # bg0,     shironezumi
 red = "#db4d6d"     # red0,     nakabeni
 green = "#66bab7"   # green0,   mizuasagi
 yellow = "#f7c242"  # yellow0,  hanaba
 blue = "#2ea9df"    # blue0,    tsuyukusa
 magenta = "#f596aa" # magenta0, momo
 cyan = "#7db9de"    # cyan0,    wasurenagusa
+white = "#0f2540"   # fg,      kon
+
+[colors.dim]
+black = "#fcfaf2"   # bg,       shironeri
+red = "#cb1b45"     # red,     kurenai
+green = "#268785"   # green,   seiheki
+yellow = "#96632e"  # yellow,  chojicha
+blue = "#005caf"    # blue,    ruri
+magenta = "#e03c8a" # magenta, tsutsuji
+cyan = "#3a8fb7"    # cyan,    chigusa
 white = "#434343"   # fg0,      keshizumi
 
 [colors.cursor]
