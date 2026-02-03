@@ -1,71 +1,71 @@
 [colors.normal]
-black = "#fcfaf2"   # bg,       shironeri
-red = "#cb1b45"     # red,     kurenai
-green = "#268785"   # green,   seiheki
-yellow = "#96632e"  # yellow,  chojicha
-blue = "#005caf"    # blue,    ruri
-magenta = "#e03c8a" # magenta, tsutsuji
-cyan = "#3a8fb7"    # cyan,    chigusa
-white = "#434343"   # fg0,      keshizumi
+black = "#f8f4ed"   # bg,      hanbaiyu
+red = "#c21f30"     # red,     fengyehong
+green = "#12AA9c"   # green,   meidielü
+yellow = "#806332"  # yellow,  canghuang
+blue = "#1661ab"    # blue,    dianqing
+magenta = "#ee2c79" # magenta, zijinghong
+cyan = "#1e9eb3"    # cyan,    cuilan
+white = "#47484c"   # fg0,     waguanhui
 
 [colors.bright]
-black = "#bdc0ba"   # bg0,     shironezumi
-red = "#db4d6d"     # red0,     nakabeni
-green = "#66bab7"   # green0,   mizuasagi
-yellow = "#f7c242"  # yellow0,  hanaba
-blue = "#2ea9df"    # blue0,    tsuyukusa
-magenta = "#f596aa" # magenta0, momo
-cyan = "#7db9de"    # cyan0,    wasurenagusa
-white = "#0f2540"   # fg,      kon
+black = "#e4dfd7"   # bg0,      zhenzhuhui
+red = "#f03752"     # red0,     haitanghong
+green = "#57c3c2"   # green0,   shilü
+yellow = "#fbb957"  # yellow0,  mihuang
+blue = "#66a9c9"    # blue0,    jianshilan
+magenta = "#ea7293" # magenta0, fengxianhuahong
+cyan = "#51c4d3"    # cyan0,    pubulan
+white = "#21373d"   # fg,       huilan
 
 [colors.dim]
-black = "#fcfaf2"   # bg,       shironeri
-red = "#cb1b45"     # red,     kurenai
-green = "#268785"   # green,   seiheki
-yellow = "#96632e"  # yellow,  chojicha
-blue = "#005caf"    # blue,    ruri
-magenta = "#e03c8a" # magenta, tsutsuji
-cyan = "#3a8fb7"    # cyan,    chigusa
-white = "#434343"   # fg0,      keshizumi
+black = "#f8f4ed"   # bg,      hanbaiyu
+red = "#c21f30"     # red,     fengyehong
+green = "#12AA9c"   # green,   meidielü
+yellow = "#806332"  # yellow,  canghuang
+blue = "#1661ab"    # blue,    dianqing
+magenta = "#ee2c79" # magenta, zijinghong
+cyan = "#1e9eb3"    # cyan,    cuilan
+white = "#47484c"   # fg0,     waguanhui
 
 [colors.cursor]
 cursor = "CellForeground"
 text = "CellBackground"
 
 [colors.footer_bar]
-background = "#fcfaf2" # bg
-foreground = "#0f2540" # fg
+background = "#f8f4ed" # bg
+foreground = "#21373d" # fg
 
 [colors.hints.end]
-background = "#db4d6d" # red0
-foreground = "#0f2540" # fg
+background = "#f03752" # red0
+foreground = "#21373d" # fg
 
 [colors.hints.start]
-background = "#db4d6d" # red0
-foreground = "#0f2540" # fg
+background = "#f03752" # red0
+foreground = "#21373d" # fg
 
 [colors.line_indicator]
 background = "None"
 foreground = "None"
 
 [colors.primary]
-background = "#fcfaf2"        # bg
-foreground = "#0f2540"        # fg
-dim_foreground = "#434343"    # fg0
-bright_foreground = "#0f2540" # fg
+background = "#f8f4ed"        # bg
+foreground = "#21373d"        # fg
+dim_foreground = "#47484c"    # fg0
+bright_foreground = "#21373d" # fg
 
 [colors.search.focused_match]
 background = "CellForeground"
-foreground = "#fcfaf2"        # bg
+foreground = "#f8f4ed"        # bg
 
 [colors.search.matches]
-background = "#7db9de" # cyan0
-foreground = "#0f2540" # fg
+background = "#51c4d3" # cyan0
+foreground = "#21373d" # fg
 
 [colors.selection]
-background = "#bdc0ba"  # bg0
+background = "#e4dfd7"  # bg0
 text = "CellForeground"
 
 [colors.vi_mode_cursor]
 background = "CellForeground"
-text = "#fcfaf2"              # bg
+text = "#f8f4ed"              # bg
