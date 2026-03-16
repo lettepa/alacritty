@@ -16,7 +16,7 @@ yellow = "#fbb957"  # yellow0,  mihuang
 blue = "#66a9c9"    # blue0,    jianshilan
 magenta = "#ea7293" # magenta0, fengxianhuahong
 cyan = "#51c4d3"    # cyan0,    pubulan
-white = "#21373d"   # fg,       huilan
+white = "#2b333e"   # fg,       qinghui
 
 [colors.dim]
 black = "#f8f4ed"   # bg,      hanbaiyu
@@ -34,15 +34,15 @@ text = "CellBackground"
 
 [colors.footer_bar]
 background = "#f8f4ed" # bg
-foreground = "#21373d" # fg
+foreground = "#2b333e" # fg
 
 [colors.hints.end]
 background = "#f03752" # red0
-foreground = "#21373d" # fg
+foreground = "#2b333e" # fg
 
 [colors.hints.start]
 background = "#f03752" # red0
-foreground = "#21373d" # fg
+foreground = "#2b333e" # fg
 
 [colors.line_indicator]
 background = "None"
@@ -50,9 +50,9 @@ foreground = "None"
 
 [colors.primary]
 background = "#f8f4ed"        # bg
-foreground = "#21373d"        # fg
+foreground = "#2b333e"        # fg
 dim_foreground = "#47484c"    # fg0
-bright_foreground = "#21373d" # fg
+bright_foreground = "#2b333e" # fg
 
 [colors.search.focused_match]
 background = "CellForeground"
@@ -60,7 +60,7 @@ foreground = "#f8f4ed"        # bg
 
 [colors.search.matches]
 background = "#51c4d3" # cyan0
-foreground = "#21373d" # fg
+foreground = "#2b333e" # fg
 
 [colors.selection]
 background = "#e4dfd7"  # bg0

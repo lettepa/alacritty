@@ -9,7 +9,7 @@ cyan = "#51c4d3"    # cyan,    pubulan
 white = "#c4cbcf"   # fg0,     dalishihui
 
 [colors.bright]
-black = "#21373d"   # bg0,      huilan
+black = "#2b333e"   # bg0,      qinghui
 red = "#c21f30"     # red0,     fengyehong
 green = "#12aa9c"   # green0,   meidielü
 yellow = "#806332"  # yellow0,  canghuang
@@ -63,7 +63,7 @@ background = "#1e9eb3" # cyan0
 foreground = "#e4dfd7" # fg
 
 [colors.selection]
-background = "#21373d"  # bg0
+background = "#2b333e"  # bg0
 text = "CellForeground"
 
 [colors.vi_mode_cursor]
